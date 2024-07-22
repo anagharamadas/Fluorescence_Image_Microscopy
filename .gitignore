@@ -130,3 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore all files with a certain extension
+*.h5
+*.png
+
+# Ignore entire directories
+BSCCM-tiny/
+fluorescence_processing/
